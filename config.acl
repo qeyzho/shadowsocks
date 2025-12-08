@@ -1,4 +1,5 @@
 [proxy_all]
+
 [bypass_list]
 (?:^|\.)*\.ir$
 0.0.0.0/8
